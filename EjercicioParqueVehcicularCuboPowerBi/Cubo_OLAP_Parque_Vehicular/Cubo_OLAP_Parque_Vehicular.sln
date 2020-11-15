@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Cubo_OLAP_Parque_Vehicular", "Cubo_OLAP_Parque_Vehicular\Cubo_OLAP_Parque_Vehicular.dwproj", "{5EE18D86-B59B-4DF4-A66C-8762C2EA7CF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EE18D86-B59B-4DF4-A66C-8762C2EA7CF1}.Development|Default.ActiveCfg = Development
+		{5EE18D86-B59B-4DF4-A66C-8762C2EA7CF1}.Development|Default.Build.0 = Development
+		{5EE18D86-B59B-4DF4-A66C-8762C2EA7CF1}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {776485AA-9D1E-483E-A97D-07FD48E21F66}
+	EndGlobalSection
+EndGlobal

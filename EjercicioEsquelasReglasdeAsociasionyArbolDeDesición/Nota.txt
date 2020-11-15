@@ -1,0 +1,4 @@
+git no nos permitió añadir al repositorio local 
+el archivo .ows, que es el formto que maneja Orange,
+el programa que decidimos usar para reglas de asociasión 
+y árbol de desición. 
